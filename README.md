@@ -6,3 +6,5 @@ a record to your bashrc to have the alias `diskspace` on your command line
 from now on.
 
 stupid but effective. just like me
+
+![Diskspace alias preview](https://raw.githubusercontent.com/blackletum/diskspace_alias/refs/heads/main/preview.png)
